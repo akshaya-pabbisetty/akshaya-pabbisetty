@@ -1,5 +1,6 @@
 ## Hi, I'm Akshaya! 
-_____
+
+I'm a recent highschool grad working on improving my skillset to break into the software engineering industry!
 
 👩🏽‍💻 Sharing my journey as a beginner in software engineering<br/>
 ✏️ Computer Science Student at George Mason University<br/>
